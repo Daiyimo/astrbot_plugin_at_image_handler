@@ -1,0 +1,6 @@
+# metadata.yaml
+name: "At Image Handler"
+author: "YourName"
+description: "当用户 @ 机器人后发送图片，自动识别处理。"
+version: "1.0.0"
+repo: "https://github.com/yourname/astrbot_plugin_at_image_handler"
